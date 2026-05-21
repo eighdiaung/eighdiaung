@@ -1,6 +1,6 @@
 # Hi, I'm Eighdi 👋
 
-I love creating simulations from mathematical models to understand coordination and emergent dynamics of complex systems that are composed of many agents. With 6 years of experience in programming mathematical and statistical methods to analyze data, I specialize in turning real-world data into insights of how complex systems use coordination to achieve a unified goal. For example, how do ants in a colony regulate energy like a single super organism? I am looking for research scientist or an engineer role where I will have the opportunity to turn curiosity and data to solve real-world problems
+I love creating simulations from mathematical models to understand coordination and emergent dynamics of complex systems that are composed of many agents. With 6 years of experience in programming mathematical and statistical methods to analyze data, I specialize in turning real-world data into insights of how complex systems use coordination to achieve a unified goal. For example, how do ants in a colony regulate energy like a single super organism? I am interested in research scientist and engineering roles involving autonomous systems, swarm intelligence, multi-agent coordination, and robotics simulation.
 
 
 ## Research Interests
