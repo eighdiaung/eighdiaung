@@ -8,6 +8,7 @@ I love creating simulations from mathematical models to understand coordination 
 - Multi-agent systems
 - Swarm intelligence
 - Autonomous robotics
+- Bioinspired algorithms
 - Warehouse coordination
 - Emergent collective behavior
 
