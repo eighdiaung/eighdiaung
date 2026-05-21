@@ -18,8 +18,8 @@ I love creating simulations from mathematical models to understand coordination 
 Interactive multi-agent simulation exploring decentralized flocking dynamics in free space and obstacle-constrained environments.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eighdiaung/vicsek-flocking-with-obstacles/main/gifs/free_space.gif" width="45%">
-  <img src="https://raw.githubusercontent.com/eighdiaung/vicsek-flocking-with-obstacles/main/gifs/obstacles.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/eighdiaung/vicsek-flocking-with-obstacles/main/media/free_space.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/eighdiaung/vicsek-flocking-with-obstacles/main/media/obstacles.gif" width="45%">
 </p>
 
 🔗 Repository:
