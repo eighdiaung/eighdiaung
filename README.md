@@ -29,6 +29,16 @@ https://github.com/eighdiaung/vicsek-flocking-with-obstacles
 
 ---
 
+## Technical Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Simulation](https://img.shields.io/badge/Simulation-Systems-blue?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Coordination-green?style=for-the-badge)
+
+
 ## Current Projects
 
 ### Multi-Agent Warehouse Simulator
