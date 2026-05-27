@@ -44,6 +44,11 @@ https://github.com/eighdiaung/vicsek-flocking-with-obstacles
 ### Multi-Agent Warehouse Simulator
 Warehouse robotics simulator exploring decentralized task coordination and multi-agent planning ideas inspired by PIBT/MAPF systems.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eighdiaung/multi-agent-warehouse-simulator/main/media/warehouse_simulation_R1_prioritizing.gif" width="45%">
+  <img src="https://raw.githubusercontent.com/eighdiaung/multi-agent-warehouse-simulator/main/media/warehouse_simulation_R2_prioritizing.gif" width="45%">
+</p>
+
 **Repository:**
 https://github.com/eighdiaung/multi-agent-warehouse-simulator
 
